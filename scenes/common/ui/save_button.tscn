@@ -1,6 +1,6 @@
-[gd_scene load_steps=2 format=3]
+[gd_scene load_steps=2 format=3 uid="uid://nu1ntprbuf7m"]
 
-[ext_resource type="Script" path="res://scripts/ui/save_button.gd" id="1_vfodf"]
+[ext_resource type="Script" uid="uid://dxuiuyexjxm5r" path="res://scripts/ui/save_button.gd" id="1_vfodf"]
 
 [node name="save_button" type="Button"]
 size_flags_vertical = 3

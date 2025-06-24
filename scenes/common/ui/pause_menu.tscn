@@ -1,11 +1,11 @@
 [gd_scene load_steps=8 format=3 uid="uid://djujqcbughbl"]
 
-[ext_resource type="Script" path="res://scripts/ui/pause_menu.gd" id="1_kcrr8"]
+[ext_resource type="Script" uid="uid://kjd487bq3c1t" path="res://scripts/ui/pause_menu.gd" id="1_kcrr8"]
 [ext_resource type="Theme" uid="uid://byds11vsd6ber" path="res://themes/pixelart/pixelart.tres" id="2_807cf"]
-[ext_resource type="Resource" path="res://game_resources/is_paused_reference.tres" id="3_ahtvt"]
-[ext_resource type="PackedScene" path="res://scenes/common/ui/mute_button.tscn" id="3_gjyvc"]
+[ext_resource type="Resource" uid="uid://c2kq0kykajuk6" path="res://game_resources/is_paused_reference.tres" id="3_ahtvt"]
+[ext_resource type="PackedScene" uid="uid://cwgu1ybjgy34g" path="res://scenes/common/ui/mute_button.tscn" id="3_gjyvc"]
 [ext_resource type="PackedScene" path="res://scenes/common/ui/save_button.tscn" id="4_hed7j"]
-[ext_resource type="PackedScene" path="res://scenes/common/ui/load_button.tscn" id="5_mxgd3"]
+[ext_resource type="PackedScene" uid="uid://duaag0sc67nc8" path="res://scenes/common/ui/load_button.tscn" id="5_mxgd3"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_j07ig"]
 font_size = 141
